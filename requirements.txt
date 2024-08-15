@@ -1,0 +1,10 @@
+pyodbc
+python-dotenv
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+statsmodels
+scipy
+scikit-learn
