@@ -6,7 +6,7 @@ Welcome to the Corporation Favorita Store Sales Forecasting project! This reposi
 This project dives into the intriguing challenge of predicting store sales by leveraging time series forecasting techniques. We explore a diverse dataset containing information about dates, store details, product information, promotional activities, sales figures, and additional enriching data. The ultimate goal is to provide Corporation Favorita with data-driven insights for optimizing inventory management, promotional strategies, and overall business performance.
 
 # Project Description
-Title: Enhancing Store Sales Forecasting for Corporation Favorita
+Title:  Time Series Forecasting Analysis
 Objective:
 Develop a robust time series forecasting model to predict store sales for Corporation Favorita, providing accurate predictions for unit sales across a diverse range of items in different Favorita stores.
 
