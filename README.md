@@ -104,6 +104,10 @@ I will evaluate the trained models using appropriate metrics such as MAE, RMSE, 
 
 Exploratory Data Analysis (EDA) report. Data preprocessing and feature engineering documentation. Trained time series forecasting models. Model evaluation and performance analysis. Final project report summarizing the findings, insights, and recommendations.
 
+# Power Bi
+
+https://app.powerbi.com/groups/me/reports/83908fcf-2c5f-4dff-9cb9-60e91da90dd8?pbi_source=deskto
+
 # Conclusion
 
 The Regression Project aims to predict store sales accurately using time series forecasting techniques. By leveraging the provided datasets and following the outlined methodology, I aim to provide valuable insights to Corporation Favorita and develop a reliable forecasting model for store sales. The project will enable informed decision-making, optimize inventory management, and improve overall sales performance for the company.
