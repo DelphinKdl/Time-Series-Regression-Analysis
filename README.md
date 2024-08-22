@@ -106,7 +106,7 @@ Exploratory Data Analysis (EDA) report. Data preprocessing and feature engineeri
 
 # Power Bi
 
-https://app.powerbi.com/groups/me/reports/83908fcf-2c5f-4dff-9cb9-60e91da90dd8?pbi_source=deskto
+https://app.powerbi.com/groups/me/reports/83908fcf-2c5f-4dff-9cb9-60e91da90dd8?pbi_source=desktop
 
 # Conclusion
 
